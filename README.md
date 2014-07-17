@@ -1,2 +1,2 @@
-MeineKraft-Direwolf-20-1.6-Pack
+MeineKraft-Modded-1.6-Pack
 ===============================
